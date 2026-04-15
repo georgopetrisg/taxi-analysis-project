@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+env/
+
+# Data files (μεγάλα αρχεία)
+data/*.csv
+data/*.parquet
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# Results
+results/*.png
+results/*.csv
