@@ -6,7 +6,7 @@ __pycache__/
 venv/
 env/
 
-# Data files (μεγάλα αρχεία)
+# Data files
 data/*.csv
 data/*.parquet
 *.db
@@ -15,6 +15,5 @@ data/*.parquet
 .vscode/
 .idea/
 
-# Results
-results/*.png
-results/*.csv
+# Jupyter
+.ipynb_checkpoints/
