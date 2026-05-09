@@ -7,9 +7,11 @@ venv/
 env/
 
 # Data files
+data/
 data/*.csv
 data/*.parquet
 *.db
+*.parquet
 
 # IDE
 .vscode/

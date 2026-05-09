@@ -1,0 +1,17 @@
+feature,corr_with_tip
+fare_amount,0.8189
+trip_distance,0.7985
+trip_duration_min,0.7161
+tolls_amount,0.5949
+avg_speed_mph,0.468
+RatecodeID,0.3903
+extra,0.0985
+mta_tax,-0.0676
+is_weekend,-0.0351
+is_rush_hour,-0.0212
+is_night,0.02
+pickup_hour,0.0186
+pickup_dayofweek,-0.018
+VendorID,0.0149
+passenger_count,0.0091
+pickup_day,0.0054

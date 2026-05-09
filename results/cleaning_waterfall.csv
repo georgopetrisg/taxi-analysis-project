@@ -1,0 +1,11 @@
+filter,rows_remaining
+0. raw,12210952
+1. payment_type == 1,8127391
+2. passenger 1..6,8126958
+3. distance 0..100 mi,8101606
+4. fare 2.5..500,8101283
+5. tip 0..fare*2,8099501
+6. total > 2.5,8099501
+7. duration 1..240 min,8074846
+8. NYC bbox,7937904
+9. March 2016 only,7937904
